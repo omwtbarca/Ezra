@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Personal Page of omwtbarca...
 
-You can use the [editor on GitHub](https://github.com/omwtbarca/omwtbarca.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###Personal profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####姓名：金正千     Bruno Leopold
 
-### Markdown
+####学校：同济大学
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+####邮箱：omwtbarca@gmail.com
 
-```markdown
-Syntax highlighted code block
+####地址：上海市杨浦区四平路同济大学1239号
 
-# Header 1
-## Header 2
-### Header 3
+####研究方向：Astro chemistry...  
 
-- Bulleted
-- List
+###Personal Achievements
 
-1. Numbered
-2. List
+####research results
 
-**Bold** and _Italic_ and `Code` text
+#####theses
 
-[Link](url) and ![Image](src)
-```
+####others
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omwtbarca/omwtbarca.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+📬:omwtbarca@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
