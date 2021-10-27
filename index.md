@@ -1,8 +1,9 @@
 ## Welcome to Personal Page of omwtbarca...
+en mi camino al barca
 
 ### Personal profile
 
-#### 姓名：金正千     Bruno Leopold
+#### 姓名：Bruno Leopold
 
 #### 学校：同济大学
 
