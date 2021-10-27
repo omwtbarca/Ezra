@@ -1,28 +1,28 @@
 ## Welcome to Personal Page of omwtbarca...
 
-###Personal profile
+### Personal profile
 
-####姓名：金正千     Bruno Leopold
+#### 姓名：金正千     Bruno Leopold
 
-####学校：同济大学
+#### 学校：同济大学
 
-####邮箱：omwtbarca@gmail.com
+#### 邮箱：omwtbarca@gmail.com
 
-####地址：上海市杨浦区四平路同济大学1239号
+#### 地址：上海市杨浦区四平路同济大学1239号
 
-####研究方向：Astro chemistry...  
+#### 研究方向：Astro chemistry...  
 
-###Personal Achievements
+### Personal Achievements
 
-####research results
+#### research results
 
-#####theses
+##### theses
 
-####others
+#### others
 
 
 
 
 ### Support or Contact
-📬:omwtbarca@gmail.com
+📬:<omwtbarca@gmail.com>
 
