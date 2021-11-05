@@ -3,6 +3,7 @@
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/87826552/140541151-4680cefe-7e5f-4d54-a231-7b9cf45baaf3.gif)
 > en mi camino al barca
+> 
 > FC Barca /ManCity
 ### Personal profile
 
