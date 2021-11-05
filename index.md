@@ -1,6 +1,7 @@
-## Welcome to Personal Page of omwtbarca...
+## Welcome to Personal Page of omwtbarca...  
+⚽🏀🎓🎵🔬🔭❤️💙🔟👨‍🚀👨‍🔬🦁😜😁
 en mi camino al barca
-
+> FC Barca /ManCity
 ### Personal profile
 
 #### 姓名：Bruno Leopold
@@ -11,7 +12,7 @@ en mi camino al barca
 
 #### 地址：上海市杨浦区四平路同济大学1239号
 
-#### 研究方向：Astro chemistry...  
+#### 研究方向：Astro chemistry/chemcam/libs...  
 
 ### Personal Achievements
 
@@ -21,7 +22,7 @@ en mi camino al barca
 
 #### others
 
-![1](https://vdn3.vzuu.com/SD/4fe9e1f4-3e3c-11ec-8a60-06012b696a12.mp4?disable_local_cache=1&auth_key=1636122630-0-0-c1ecfff4074f69d097c213b2571b13e3&f=mp4&bu=pico&expiration=1636122630&v=tx)
+![1](https://vdn3.vzuu.com/SD/4fe9e1f4-3e3c-11ec-8a60-06012b696a12.mp4?disable_local_cache=1&auth_key=1636131592-0-0-74a39f47534a579fd7dd0d43c66a1510&f=mp4&bu=pico&expiration=1636131592&v=tx)
 
 
 ### Support or Contact
