@@ -1,0 +1,18 @@
+﻿生成启动时间为 2020/6/27 11:27:59。
+     1>项目“c:\Users\86138\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2012旗舰版(含序列号)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(5): error C2065: “i”: 未声明的标识符
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(6): error C2065: “n1”: 未声明的标识符
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(7): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(7): error C2065: “i”: 未声明的标识符
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(7): error C2065: “n1”: 未声明的标识符
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(7): error C2065: “sumscore”: 未声明的标识符
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(7): error C2065: “sumn”: 未声明的标识符
+     1>c:\users\86138\documents\visual studio 2012\projects\consoleapplication3\consoleapplication3\源.cpp(9): error C2059: 语法错误:“;”
+     1>已完成生成项目“c:\Users\86138\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.78
