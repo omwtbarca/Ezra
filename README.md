@@ -1,5 +1,5 @@
 # Ezra
-Ezra is an cute&sapiential octopus living in the back of the Moon. 
+Ezra is a cute&sapiential octopus living in the back of the Moon. 
 
 Actually she is a sciencist , and she does scientific experiments often. 
 
